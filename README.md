@@ -1,29 +1,22 @@
-![pageform_thumbnail](https://github.com/Kliton/yt_pageform/assets/10452377/610b5935-5afd-4126-9dfd-a7064e18a0db)
+# Form Bygger Applikation
 
-[Discord server for problems/help](https://discord.gg/Gc3ShuJrYE)
+## Beskrivelse
 
-[Youtube video](https://youtu.be/QGXUUXy0AMw)
+Form Bygger Applikation er en brugervenlig fullstack-applikation, der giver brugerne mulighed for at oprette tilpassede formularer efter eget behov. Med denne applikation kan brugere nemt designe, gemme og dele deres egne formularer. Applikationen er ideel til at indsamle data, arrangere events, lave undersøgelser, og meget mere.
 
-[LIVE DEMO](https://yt-pageform.vercel.app/)
+### Funktioner
 
-In this 4 hour tutorial we are going to build this full stack PageForm application.
+- Intuitiv drag-and-drop formularbygger
+- Mulighed for at gemme formularer til senere brug
+- Deling af formularer via link
+- Responsivt design til brug på alle enheder
 
-We are going to build this with:
-- Nextjs 13  with AppRouter
-- Dnd-kit library
-- ServerActions
-- Typescript
-- Tailwindcss / Shadcn UI
-- Vercel PostgreSQL
-- Prisma as ORM
+### Teknologier
 
-Features: 
-- Responsive
-- Create forms with a stunning drag and drop designer
-- Layout fields: Title, SubTitle, Spacer, Separator, Paragraph
-- Form fields: Text, Number, Select, Date, Checkbox, Textarea
-- Is easy to add and customize new fields
-- Form preview dialog
-- Share form url
-- Form submission/validation
-- Form stats: visits and submissions
+- Next Js
+- React Js
+- Prisma
+- TailwindCSS
+- PostgreSQL
+- Dnd-Kit
+- TypeScript
